@@ -2,4 +2,5 @@
 Books online
 
 - HTML
-	* [DIVE INTO HTML5 - MARK PILGRIM - pt-BR](https://diveintohtml5.com.br)
+	* [Dive Into HTML5 - Mark Pilgrim - pt-BR](https://diveintohtml5.com.br)
+	* [Eloquent JavaScript - Marijn Haverbeke - pt-BR](https://braziljs.github.io/eloquente-javascript)
